@@ -15,6 +15,18 @@
 
 ## Todo for Imrane
 
-- Check branch in git .
-- Commit, stage, push, pull
-- Pull request
+### Git work
+
+1) Check various git courses
+  - Check branch in git .
+  - Commit, stage, push, pull
+  - Pull request
+  - stash, commands and how git works with github .
+  
+2) Install and learn how to use sublime merge
+
+3) Start html projects
+   - Push html projects in the right folder
+   - Explain the differents steps and concepts learnt .
+
+4) As html do the same for javascript and python . 
