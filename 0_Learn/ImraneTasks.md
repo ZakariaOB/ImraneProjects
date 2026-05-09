@@ -25,8 +25,10 @@
   
 2) Install and learn how to use sublime merge
 
-3) Start html projects
+3) Learn markdown .
+
+4) Start html projects
    - Push html projects in the right folder
    - Explain the differents steps and concepts learnt .
 
-4) As html do the same for javascript and python . 
+5) As html do the same for javascript and python .
